@@ -447,3 +447,9 @@ body {
 .header--of-article {
     text-align: center;
 }
+
+#samolot {
+    max-width: 100%;
+    text-align: center;
+    
+}
